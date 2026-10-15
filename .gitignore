@@ -1,0 +1,9 @@
+# Development / scratch files (not part of the app)
+.codebuddy/
+.refactor.js
+.strip.js
+_grep*.js
+_grep*.png
+_verify.js
+_shot*.png
+_*.tmp
